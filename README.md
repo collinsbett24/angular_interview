@@ -1,7 +1,36 @@
+
 # AngularInterview
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
+# Author
+Collins Kipkirui Bett
+
+# Description
+//content here
+
+
+# Features
+//add features here
+
+# Behaviour Driven Development
+//usage and procedure by users
+# Set up and Installations
+//info goes here
+//running application
+// Testing procedure
+
+# Technology Used
+//tech info
+
+# Future Implimentation
+//depends on achievement
+
+# Known Bugs
+//api bugs
+
+# Copyright and License
+The project if under MIT License . Copyright 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
